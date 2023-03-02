@@ -18,6 +18,7 @@ public class TestStudent {
         System.out.println("Alumno Semestre " + alumno1500.getSemester());
         System.out.println("Alumno Carrera " + alumno1500.getCarrer());
 
+
     }
 
 }
