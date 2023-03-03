@@ -17,6 +17,14 @@ public class TestStudent {
         System.out.println("Alumno Numero de control " + alumno1500.getName());
         System.out.println("Alumno Semestre " + alumno1500.getSemester());
         System.out.println("Alumno Carrera " + alumno1500.getCarrer());
+
+        Student alumno1501 = new Student();
+
+        System.out.println("ALumno Nombre " + alumno1501.getName());
+        System.out.println("Alumno Apellido " + alumno1501.getLastname());
+        System.out.println("Alumno Numero de control " + alumno1501.getName());
+        System.out.println("Alumno Semestre " + alumno1501.getSemester());
+        System.out.println("Alumno Carrera " + alumno1501.getCarrer());
     }
 
 }
