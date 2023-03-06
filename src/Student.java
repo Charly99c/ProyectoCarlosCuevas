@@ -3,14 +3,23 @@ public class Student {
     private String name;
     private String lastname;
     private String carrer;
-    private short semester;
+    private int semester;
     private double average;
+
+    public Student (long controlNumber, String name, String lastname, String carrer, int semester){
+        this.name = name;
+        this.lastname = lastname;
+        this.controlNumber = controlNumber;
+        this.carrer = carrer;
+        this.semester = semester;
+
+    }
 
     public int getSemester() {
         return semester;
     }
 
-    public void setSemester(Short semester) {
+    public void setSemester(int semester) {
         this.semester = semester;
     }
 
@@ -61,6 +70,19 @@ public class Student {
     }
 
 
+    public String toString(){
+
+        System.out.println("Los datos del estudiante: ");
+        System.out.println("nombre: "+ getName());
+        System.out.println("apellido: "+ getLastname());
+        System.out.println("numero de control: "+getControlNumber());
+        System.out.println("carrera: "+getCarrer());
+        System.out.println("semestre: "+getSemester());
+        return "";
+    }
+
 
 }
+
+
 

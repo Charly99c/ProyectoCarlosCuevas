@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab11c770-b203-46de-9eb3-dbc870660fe9" name="Changes" comment="&quot;Se modificó la clase TestStudent&quot;" />
+    <list default="true" id="ab11c770-b203-46de-9eb3-dbc870660fe9" name="Changes" comment="&quot;Se creo el metodo toString&quot;">
+      <change beforePath="$PROJECT_DIR$/src/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Student.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,7 +70,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677849216517</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="&quot;Se creo el metodo toString&quot;">
+      <created>1678108432792</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1678108432792</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -85,6 +94,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="&quot;Se creo la clase TestStudent&quot;" />
     <MESSAGE value="&quot;Se modificó la clase TestStudent&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;Se modificó la clase TestStudent&quot;" />
+    <MESSAGE value="&quot;Se creo el metodo toString&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Se creo el metodo toString&quot;" />
   </component>
 </project>
