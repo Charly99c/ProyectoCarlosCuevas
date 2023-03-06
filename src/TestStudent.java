@@ -4,27 +4,12 @@ public class TestStudent {
 
         System.out.println("Probando clase Student");
 
-        Student alumno1500 = new Student();
+        Student alumno1500 = new Student(22670017, "Carlos","Cuevas", "Infornmatica",2);
 
-        alumno1500.setName("Carlos");
-        alumno1500.setLastname("Cuevas");
-        alumno1500.setControlNumber(Long.parseLong("1500"));
-        alumno1500.setSemester((short) 1);
-        alumno1500.setCarrer("Informatica");
 
-        System.out.println("Alumno Nombre " + alumno1500.getName());
-        System.out.println("alumno Apellido " + alumno1500.getLastname());
-        System.out.println("Alumno Numero de control " + alumno1500.getName());
-        System.out.println("Alumno Semestre " + alumno1500.getSemester());
-        System.out.println("Alumno Carrera " + alumno1500.getCarrer());
 
-        Student alumno1501 = new Student();
+        alumno1500.toString();
 
-        System.out.println("ALumno Nombre " + alumno1501.getName());
-        System.out.println("Alumno Apellido " + alumno1501.getLastname());
-        System.out.println("Alumno Numero de control " + alumno1501.getName());
-        System.out.println("Alumno Semestre " + alumno1501.getSemester());
-        System.out.println("Alumno Carrera " + alumno1501.getCarrer());
     }
 
 }
