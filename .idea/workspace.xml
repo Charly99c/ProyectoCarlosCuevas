@@ -4,13 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab11c770-b203-46de-9eb3-dbc870660fe9" name="Changes" comment="&quot;Se creo el metodo toString en la clase Student&quot;">
+    <list default="true" id="ab11c770-b203-46de-9eb3-dbc870660fe9" name="Changes" comment="&quot;Se creo la clase TenisShoes&quot;">
       <change afterPath="$PROJECT_DIR$/src/Account_logic.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Account_main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Patient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PatientTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TenisShoes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TenisShoesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Futbolista.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Futbolistaprueba.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Guitar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/TestStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestStudent.java" afterDir="false" />
@@ -92,7 +91,21 @@
       <option name="project" value="LOCAL" />
       <updated>1678108577529</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="&quot;Se creo la clase Patient&quot;">
+      <created>1678903426341</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1678903426341</updated>
+    </task>
+    <task id="LOCAL-00007" summary="&quot;Se creo la clase TenisShoes&quot;">
+      <created>1678903508083</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1678903508083</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -111,6 +124,8 @@
     <MESSAGE value="&quot;Se modificó la clase TestStudent&quot;" />
     <MESSAGE value="&quot;Se creo el metodo toString&quot;" />
     <MESSAGE value="&quot;Se creo el metodo toString en la clase Student&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;Se creo el metodo toString en la clase Student&quot;" />
+    <MESSAGE value="&quot;Se creo la clase Patient&quot;" />
+    <MESSAGE value="&quot;Se creo la clase TenisShoes&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Se creo la clase TenisShoes&quot;" />
   </component>
 </project>
